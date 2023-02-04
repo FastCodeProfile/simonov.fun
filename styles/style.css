@@ -17,7 +17,7 @@ body {
     grid-template-columns: repeat(12, 1fr);
     user-select: none;
     background-size: cover;
-    background-image: url("/images/background.jpg");
+    background-image: url("images/background.jpg");
 }
 
 /* HEADER START */
